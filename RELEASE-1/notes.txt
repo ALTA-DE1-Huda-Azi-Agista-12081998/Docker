@@ -1,0 +1,2 @@
+Saya harus custom beberapa command, karna kalau mengikuti instruksi release maka ada yang bermasalah pada point 4.
+Dijalankan commandnya berhasil, tetapi ketika dilanjutkan dengan "docker ps" maka tidak ada container yang berjalan (empty)
